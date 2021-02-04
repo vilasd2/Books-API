@@ -15,4 +15,4 @@
 | Name | Description |
 --- | --- |
 | BOOKS_API_PORT | Application port. If it is not specified defaults to 8080 |
-| BOOKS_API_DATABASE_NAME | Name of the MySql database |
+| BOOKS_API_DATABASE_NAME | Name of the database |
